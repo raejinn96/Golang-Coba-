@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-07-06T07:30:01.910Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="21.6.1" etag="OGIx7lV9kA4SUOjAP8-Z" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-06T07:51:35.205Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="VaYYjgHUFdyXCX2izyG6" version="21.6.1" type="github">
   <diagram name="Halaman-1" id="MdubrnhRfB5x-fohj2pm">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9DutHO7Iowc4W4RiR467-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9DutHO7Iowc4W4RiR467-1" target="9DutHO7Iowc4W4RiR467-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9DutHO7Iowc4W4RiR467-1" value="Mulai" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="294" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9DutHO7Iowc4W4RiR467-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9DutHO7Iowc4W4RiR467-3" target="9DutHO7Iowc4W4RiR467-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9DutHO7Iowc4W4RiR467-3" value="Input &lt;br&gt;(sisi A, sisi B, T)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="130" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9DutHO7Iowc4W4RiR467-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9DutHO7Iowc4W4RiR467-5" target="9DutHO7Iowc4W4RiR467-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9DutHO7Iowc4W4RiR467-5" value="Luas = (A + B) * T / 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="284" y="230" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9DutHO7Iowc4W4RiR467-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9DutHO7Iowc4W4RiR467-7" target="9DutHO7Iowc4W4RiR467-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9DutHO7Iowc4W4RiR467-7" value="Output&amp;nbsp;&lt;br&gt;Luas" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="330" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9DutHO7Iowc4W4RiR467-9" value="Selesai" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="294" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
